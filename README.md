@@ -10,4 +10,4 @@
 - gulp
 
 ## 🌐 Ver sitio en vivo
-https://juambeltz.github.io/podcast/
+https://juambeltz.github.io/alojamientos/
